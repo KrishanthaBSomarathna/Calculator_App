@@ -1,16 +1,32 @@
-# calculator_app
+# Apple Style Calculator
 
-A new Flutter project.
+This is a simple **Apple-style calculator** built using **Flutter**. It features basic arithmetic operations like addition, subtraction, multiplication, and division. The app has a clean and modern user interface inspired by the Apple calculator, with a dark theme.
 
-## Getting Started
+## Features
+- Basic arithmetic operations: Addition (+), Subtraction (-), Multiplication (*), and Division (/).
+- Clear button to reset the calculator (`C`).
+- Ability to evaluate simple mathematical expressions.
+- Responsive and optimized for both mobile and web platforms.
 
-This project is a starting point for a Flutter application.
+## Screenshots
+![Calculator App](assets/screenshot.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
+Make sure you have the following installed:
+- Flutter SDK (2.10.0 or higher)
+- Dart SDK
+- A code editor (VS Code, Android Studio, etc.)
+- Emulator/Device for testing
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Clone the Repository
+To clone the repository, run the following command in your terminal:
+
+```bash
+git clone https://github.com/your-username/apple-style-calculator.git
+![Screenshot 2024-12-03 233740](https://github.com/user-attachments/assets/49c40bec-810d-4a4b-ae44-7e293d72a842)
+
+![Screenshot 2024-12-03 233731](https://github.com/user-attachments/assets/9d83dde9-e81b-4c85-b463-a0c33d5bcaa5)
+
+![Screenshot 2024-12-03 233746](https://github.com/user-attachments/assets/53bc72ab-51c6-4d29-90b3-0552d74cdb10)
