@@ -23,10 +23,17 @@ Make sure you have the following installed:
 ### Clone the Repository
 To clone the repository, run the following command in your terminal:
 
-```bash
-git clone https://github.com/your-username/apple-style-calculator.git
+
 ![Screenshot 2024-12-03 233740](https://github.com/user-attachments/assets/49c40bec-810d-4a4b-ae44-7e293d72a842)
 
 ![Screenshot 2024-12-03 233731](https://github.com/user-attachments/assets/9d83dde9-e81b-4c85-b463-a0c33d5bcaa5)
 
 ![Screenshot 2024-12-03 233746](https://github.com/user-attachments/assets/53bc72ab-51c6-4d29-90b3-0552d74cdb10)
+
+
+
+```bash
+git clone https://github.com/your-username/apple-style-calculator.git
+
+
+
