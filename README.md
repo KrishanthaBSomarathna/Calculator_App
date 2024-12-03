@@ -32,8 +32,7 @@ To clone the repository, run the following command in your terminal:
 
 
 
-```bash
-git clone https://github.com/your-username/apple-style-calculator.git
+
 
 
 
